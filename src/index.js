@@ -14,6 +14,7 @@ class App extends Component{
                 <Navigation logoTitle="CosiiRiggz"  />
                 < Header title="Stylish portfolio" button="Find Out More"/>
                 <Services/>
+                
             </div>
            
         );

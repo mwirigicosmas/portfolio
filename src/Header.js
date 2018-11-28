@@ -19,7 +19,7 @@ class Header extends Component{
             <header style={heroImageStyle}>
             <div className="my-header">
             <h1>{this.props.title}</h1>
-            <p><i>A Mwirigi Cosmas React Portfolio Theme</i></p>
+            <p><i>A Mwirigi Cosmas React Portfolio Theme :)</i></p>
             <a href="#button">{this.props.button}</a>
             </div>
            
